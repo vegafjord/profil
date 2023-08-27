@@ -1,8 +1,19 @@
 ---
-title: Accueil
+title: "Vegafjord's digge hjørna"
 order: 0
 ---
+# Vegafjord's digge hjørna
 
-# L'Échappée Belle
+Hei og velkommen til min plass i allheimen! Eg bur i Nordheim, den norsk språklege delen av allheimen. Født i 360 ppm. 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Eg meiner at manneættens vekst fanatisme trugar naturen, fundamentet for alt liv. Difor er me naudd for å gjere det som er nauddsynt for å gå vekk frå dette. 
+
+[Kontakt meg](https://vegafjord.github.io/profil/kontakt.html)
+
+Aktivitet
+
+Prosjektar 
+
+Mine interessar
+
+Ressursar 
